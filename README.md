@@ -1,3 +1,5 @@
 # VirtualVisionVR
 First repository
-Ale jak to działa heloł
+
+<b>Ale jak to działa heloł</b>
+Abra kadabra
